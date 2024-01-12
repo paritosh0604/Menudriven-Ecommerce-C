@@ -1,0 +1,2 @@
+pari,pari04,customer
+hi,hi,shopkeeper

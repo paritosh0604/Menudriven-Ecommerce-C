@@ -1,0 +1,2 @@
+1,Apples,Fruits,100.00,0.18,2
+2,Rice,Grains,100.00,0.18,5
